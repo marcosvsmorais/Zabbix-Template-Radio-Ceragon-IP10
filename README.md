@@ -8,8 +8,13 @@ Itens coletados: MRMC-RX-ACM adaptive profile / MRMC-RX-Bitrate (Mbps) / MRMC-RX
 Para realizar a coleta é necessário criar um host para cada SLOT disponivel, e alterar a community SNMP da seguinte forma:
 
 SLOT 1 -> community = public_1
+
 SLOT 2 -> community = public_2
+
 SLOT 3 -> community = public_3
+
 SLOT 4 -> community = public_4
+
 SLOT 5 -> community = public_5
+
 SLOT 6 -> community = public_6
